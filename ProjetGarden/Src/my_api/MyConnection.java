@@ -7,9 +7,9 @@ import java.time.LocalDate;
   */
 public class MyConnection {
 
-	String url  = "jdbc:mariadb://dwarves.iut-fbleau.fr/senecat";
-    String user = "senecat";
-    String passwd  = "Seneca$$75"; // pas sûr que ce soit mon mot de passe...
+	String url  = "url";
+    String user = "user";
+    String passwd  = "passwd"; // pas sûr que ce soit mon mot de passe...
 
 	/**
 	  * Mécanisme du singleton car on veut qu'une seule connection à la BD
