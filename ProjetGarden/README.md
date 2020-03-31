@@ -1,3 +1,3 @@
 # Projet-IHM-2019
 
-Projet réalisé en collaboration avec https://github.com/LoukaDOZ .
+Projet réalisé en collaboration avec LoukaDoz : https://github.com/LoukaDOZ .
